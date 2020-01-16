@@ -20,6 +20,6 @@ Pod::Spec.new do |spec|
   spec.swift_versions = ['5.0']
   spec.source           = { :git => "https://github.com/misyobun/MetaRod.git", :tag => spec.version.to_s }
   spec.source_files  = "MetaRod/Sources/**/*"
-  spec.ios.deployment_target = '8.0'
+  spec.ios.deployment_target = '13.0'
   spec.dependency "SwiftSoup"
 end
