@@ -5,6 +5,15 @@ MetaRod is a lightweight url meta data parser library.
 ![e5b4c37582a718534d2e83ea48cea18c](https://user-images.githubusercontent.com/509448/72453120-f123cf00-3801-11ea-8947-a1540f91b27e.gif)
 
 ## Installation
+
+### CocoaPods
+
+MetaRod is available through CocoaPods. To install it, simply add the following line to your Podfile:
+
+```
+pod 'MetaRod'
+```
+
 ### Carthage
 
 [Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager for Cocoa application.
