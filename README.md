@@ -23,5 +23,11 @@ github "misyobun/MetaRod"
 Then, run the following command to build the MetaRod framework:
 
 ``` bash
-$ carthage update
+$ carthage update --platform iOS
 ```
+
+MetaRod has dependency for `SwiftSoup.framework`, Carthage will automatically retrieve it for you. 
+You will then have to drag it yourself into your project from the Carthage/Build folder.
+Of course, don't forget to drag `MetaRod.framework` into your project.
+
+(`Kingfisher.framework`,`KingfisherSwiftUI.framework` is for the sample project.)
