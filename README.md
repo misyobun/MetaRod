@@ -1,4 +1,8 @@
 # MetaRod
+![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg)](https://github.com/Carthage/Carthage)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/komaji/GradientAnimationView/blob/master/LICENSE)
+
 MetaRod is a lightweight url meta data parser library.
 
 
