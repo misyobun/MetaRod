@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "MetaRod"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "lightweight url meta data parser library"
   spec.homepage     = "https://github.com/misyobun/MetaRod"
   spec.screenshots  = "https://user-images.githubusercontent.com/509448/72453120-f123cf00-3801-11ea-8947-a1540f91b27e.gif"
